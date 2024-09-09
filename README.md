@@ -1,7 +1,7 @@
 # sport_shoes_predict
 
-以Kaggle2020~20235之球鞋基本資料，訓練模型進行球鞋售價預測
-Kaggle: 
+以Kaggle 2020~2023 之球鞋基本資料，訓練決策樹回歸模型進行球鞋售價預測
+Kaggle: https://www.kaggle.com/datasets/rkiattisak/shoe-prices-dataset
 
 資料庫欄位: 品牌 款式名稱 出產年份 主打族群 尺寸 功能類別 材質 主要顏色 售價 
 數量: 100筆
